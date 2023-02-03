@@ -1,0 +1,48 @@
+/* || Estilo general */
+:root{
+    --color-grey:#EAEAEA;
+    --color-red:#FF2E63;
+    --color-black:#252A34;
+    --color-teal:#08D9D6;
+}
+
+body{ 
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 16px;
+}
+/* || HEADER */
+header{
+    position: relative;
+    background-color: var(--color-black);
+    color: var(--color-grey);
+    text-align: center;
+    height: 5vh;
+    
+}
+
+h1, h2, h3{
+    margin: 0;
+}
+
+p{
+    margin:0;
+}
+/* || main */
+main{
+    background-color: var(--color-black);
+    color: var(--color-grey);
+    
+}
+
+figure{
+    margin: 0;
+}
+
+ul{ 
+    list-style: none;
+}
+
+a{
+    color: #EAEAEA;
+    text-decoration: none;
+}
