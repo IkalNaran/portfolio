@@ -6,9 +6,21 @@
     --color-teal:#08D9D6;
 }
 
+html{
+    overflow-y: scroll;
+    scroll-behavior:smooth;
+   
+}
+
 body{ 
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 16px;
+    
+}
+
+main{
+    background: url(../images/background.jpg);
+    background-size:cover;
 }
 /* || HEADER */
 header{
@@ -32,6 +44,14 @@ main{
     background-color: var(--color-black);
     color: var(--color-grey);
     
+}
+
+footer{
+    font-size: 1.5em;
+    text-align: center;
+    color: var(--color-grey);
+    background: black;
+    height: 5vh;
 }
 
 figure{
