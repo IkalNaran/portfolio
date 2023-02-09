@@ -174,22 +174,39 @@
     height: 100vh;
 }
 
+.skills-box{
+    justify-content: center;
+    
+}
+
 .skills-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
     background-color: var(--color-grey);
     width: 60%;
     height: 50%;
+    border-radius: 5px;
+    
 }
+.skills-flex{
+    margin: 10px 0 0 0;
+}
+.img-skills{
+    width: 100px;
 
-.skills-box{
-    justify-content: center;
 }
 
 .title-sofskills{
     margin: 10px 0 0 0;
 }
 .soft-skills-container{
+    font-size: 2em;
+    color: var(--color-black);
     background-color: var(--color-grey);
     width: 60%;
     height: 20%;
     margin: 0 0 5px 0;
+    border-radius: 5px;
 }
