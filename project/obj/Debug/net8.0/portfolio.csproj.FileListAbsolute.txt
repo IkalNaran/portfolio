@@ -1,0 +1,15 @@
+/workspaces/portfolio/project/bin/Debug/net8.0/portfolio
+/workspaces/portfolio/project/bin/Debug/net8.0/portfolio.deps.json
+/workspaces/portfolio/project/bin/Debug/net8.0/portfolio.runtimeconfig.json
+/workspaces/portfolio/project/bin/Debug/net8.0/portfolio.dll
+/workspaces/portfolio/project/bin/Debug/net8.0/portfolio.pdb
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.AssemblyInfoInputs.cache
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.AssemblyInfo.cs
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.csproj.CoreCompileInputs.cache
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.sourcelink.json
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.dll
+/workspaces/portfolio/project/obj/Debug/net8.0/refint/portfolio.dll
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.pdb
+/workspaces/portfolio/project/obj/Debug/net8.0/portfolio.genruntimeconfig.cache
+/workspaces/portfolio/project/obj/Debug/net8.0/ref/portfolio.dll
